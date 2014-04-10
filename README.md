@@ -1,6 +1,8 @@
 Biopython Tutorial
 =================
 
-[Reference](http://biopython.org/DIST/docs/tutorial/Tutorial.html)
+Powered by IPython Notebook
 
-[Content]()
+[Oringinal Reference:](http://biopython.org/DIST/docs/tutorial/Tutorial.html)
+
+[Content:](http://nbviewer.ipython.org/github/chenleo/BiopythonTutorial/blob/master/Index.ipynb)
